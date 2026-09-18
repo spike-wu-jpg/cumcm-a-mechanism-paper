@@ -1,0 +1,4 @@
+interface:
+  display_name: "CUMCM A 题论文（机理建模）"
+  short_description: "按国赛 A 题风格写机理/物理/几何建模论文"
+  default_prompt: "使用 CUMCM A 题论文技能，按国赛 A 题（机理/物理/几何建模）的风格写一篇数学建模论文，包括摘要、问题重述、问题分析、模型假设、符号说明、模型准备、逐问建模求解、模型评价、参考文献与附录。"
